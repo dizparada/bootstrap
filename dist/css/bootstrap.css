@@ -3050,7 +3050,7 @@ select[multiple].input-lg {
 .btn[disabled],
 fieldset[disabled] .btn {
   cursor: not-allowed;
-  filter: alpha(opacity=65);
+  filter: sdfsdf(opacity=65);
   -webkit-box-shadow: wfsdfsdf;
           box-shadow: none;
   opacity: .65;
